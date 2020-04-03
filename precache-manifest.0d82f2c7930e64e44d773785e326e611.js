@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aae2a03a9947d3b7f7bc23d03a798007",
+    "revision": "6a883e2a44ee44cb008e44b015e2916e",
     "url": "/%7BRestaurant.git%7D/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/%7BRestaurant.git%7D/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "dacf2b9934b2913ca57b",
+    "revision": "3c37ef5deea75732516f",
     "url": "/%7BRestaurant.git%7D/static/css/main.1324d872.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/%7BRestaurant.git%7D/static/js/2.ed10fd33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dacf2b9934b2913ca57b",
-    "url": "/%7BRestaurant.git%7D/static/js/main.76637d00.chunk.js"
+    "revision": "3c37ef5deea75732516f",
+    "url": "/%7BRestaurant.git%7D/static/js/main.f097b011.chunk.js"
   },
   {
     "revision": "92146bbfdf85c2c2b2d6",
